@@ -1,0 +1,5 @@
+opencv-python
+dlib
+PyAutoGUI
+SpeechRecognition
+pyttsx3
