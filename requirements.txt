@@ -1,5 +1,3 @@
 opencv-python
-dlib
-PyAutoGUI
-SpeechRecognition
-pyttsx3
+mediapipe
+pyautogui
